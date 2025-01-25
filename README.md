@@ -44,3 +44,5 @@ Take a Quiz: Select a quiz category and answer the questions within the time lim
 
 View Results: After completing the quiz, view your score and motivational message.
 
+
+
